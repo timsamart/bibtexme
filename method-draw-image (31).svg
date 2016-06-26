@@ -1,0 +1,17 @@
+<svg width="580" height="580" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="582" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(16.21535670223375,0,0,16.21535670223375,-2736.2823485493227,-1960.706716359704) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="141.14327" x="170.226624" stroke-width="0" fill="#000000">?</text>
+  <text stroke="#000" transform="matrix(8.868852615356445,0,0,8.868852615356445,-1459.6721601486206,-1066.2295293807983) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="150.734751" x="193.392791" stroke-width="0" fill="#000000">TO</text>
+  <text stroke="#000" transform="matrix(7.589249324901665,0,0,7.589249324901665,-1267.4022082747595,-876.4365091906324) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="184.047551" x="168.722625" stroke-width="0" fill="#000000">BibTex</text>
+  <rect rx="28" stroke="#000" id="svg_4" height="562.999993" width="560.99998" y="7.499998" x="9.500007" stroke-width="8.5" fill="none"/>
+ </g>
+</svg>
